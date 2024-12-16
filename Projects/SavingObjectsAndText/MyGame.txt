@@ -1,0 +1,3 @@
+50,Elf,Bow,Sword,Dust
+200,Troll,Bare Hands,Big Axe
+120,Magician,Spells,Invisibility
